@@ -1,0 +1,19 @@
+So far:
+
+Hardware
+
+arduino UNO
+half size breadboard
+9V battery connector
+usb cable
+
+wire
+numerous
+LED
+resistors
+photo resistors
+
+
+Linux Box running Fedora 14
+
+
