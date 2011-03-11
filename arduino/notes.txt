@@ -1,0 +1,9 @@
+2011-03-10
+
+uno I have does have the problem with linux where if it is sending
+constantly serial output (like reading a sensor) then it no longer
+responds to IDE.
+
+does respond to the "hold reset button" workaround.
+
+ 
