@@ -1,0 +1,8 @@
+got basic manual dc motor working;
+
+then hooked up to photo resistor.
+
+single motor, and resistor.
+
+next:   two!
+
