@@ -6,4 +6,14 @@ responds to IDE.
 
 does respond to the "hold reset button" workaround.
 
+finally got stuck with hold reset;
+
+executed procedure here:
+
+http://arduino.cc/en/Hacking/DFUProgramming8U2
+
+with firmware;
+
+seems now to be working ok.
+
  

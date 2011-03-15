@@ -12,8 +12,11 @@ numerous
 LED
 resistors
 photo resistors
-
+transistors
+DC motors
+Diodes
 
 Linux Box running Fedora 14
+
 
 
