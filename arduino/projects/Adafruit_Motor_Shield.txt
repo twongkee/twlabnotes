@@ -1,0 +1,4 @@
+Acquired an assembled Adafruit Motor Shield
+
+makes things much simpler!
+
