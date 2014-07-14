@@ -17,3 +17,7 @@ with firmware;
 seems now to be working ok.
 
  
+update:
+now have nexus 7 2012 version, and an USB OTG cable.
+
+can seen and code arduino directly from tablet, without pc
