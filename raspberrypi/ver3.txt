@@ -1,0 +1,6 @@
+version 3 running as a game machine.
+
+have two usb controllers.
+
+looking at open/valid roms to download for mame and others.
+
