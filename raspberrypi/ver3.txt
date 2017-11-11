@@ -4,3 +4,5 @@ have two usb controllers.
 
 looking at open/valid roms to download for mame and others.
 
+also have usb midi controller connected to digital piano
+
